@@ -1,0 +1,40 @@
+font-family: 'DM Sans', sans-serif;
+position: fixed;
+top: 170px;
+left: 0;
+bottom: 0;
+padding: 12px;
+width: 300px;
+height: 200px;
+
+.library_content button {
+  color: #b3b3b3;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 14px;
+  font-family: 'DM Sans', sans-serif;
+  padding: 16px;
+}
+
+.fa-plus {
+  margin: 5px 10px;
+  top: 50px;
+  font-weight: 900;
+}
+
+.library .library_button {
+  display: flex;
+  margin-right: 10px;
+  color: #b3b3b3;
+  background-color: transparent;
+  border: 0px;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: 'DM Sans', sans-serif;
+  text-align: center;
+  text-decoration: none;
+  text-transform: none;
+  padding: 20px 10px;
+}
+
+d: \Documentos\Cursos\Alura\ImersãoFront End\Spotify-Imersao-Alura\src\assets\icons\small-left.png;
